@@ -50,6 +50,9 @@ which code
 # later I will teach you how to use vim, DO NOT USE IT YET
 vim file_already_existing_or_new
 
+i # press i to start writing
+esc # escape key to exit INSERT mode
+
 :q # to quit
 :w # to write
 :w! # force write
